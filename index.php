@@ -20,10 +20,6 @@
     <!-- Bắt đầu phần hiển thị -->
     <body>
         <!-- phần hiển thị -->
-</div>
-<audio autoplay loop  id="playAudio">
-<source src="nhacnen.mp3">
-</audio>
 <div class='wrapper'>
 <div class='profile-card js-profile-card'>
 <div class='profile-card__img'>
